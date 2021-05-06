@@ -1,0 +1,1 @@
+/usr/bin/clang++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Lab02Snap.dir/main.cpp.o CMakeFiles/Lab02Snap.dir/snap.cpp.o CMakeFiles/Lab02Snap.dir/csg.cpp.o CMakeFiles/Lab02Snap.dir/cdh.cpp.o CMakeFiles/Lab02Snap.dir/cr.cpp.o CMakeFiles/Lab02Snap.dir/csgs.cpp.o CMakeFiles/Lab02Snap.dir/Course.cpp.o  -o Lab02Snap 
